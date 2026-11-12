@@ -62,11 +62,3 @@ Todas las guías, plantillas y PDFs gratuitos que comparto en mis videos de **[@
 | [El playbook del SDLC nativo de IA](playbooks/el-playbook-del-sdlc-nativo-de-ia.pdf) | Cómo transformar el ciclo de desarrollo de software con IA, etapa por etapa |
 
 > Los playbooks son traducciones al español de artículos originales de Anthropic. Todos los derechos del contenido original son de sus autores.
-
----
-
-## 📬 Sígueme
-
-Cada semana subo contenido nuevo sobre IA y desarrollo en español, y los recursos nuevos van apareciendo aquí.
-
-- Instagram / TikTok: **@chanti.dev**
