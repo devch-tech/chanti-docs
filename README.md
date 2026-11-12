@@ -8,9 +8,6 @@
   <img alt="Idioma español" src="https://img.shields.io/badge/IDIOMA-ESPA%C3%91OL-e05d44?style=flat-square&labelColor=black">
   <img alt="22 guías" src="https://img.shields.io/badge/GU%C3%8DAS-22-0a84ff?style=flat-square&labelColor=black">
   <img alt="6 categorías" src="https://img.shields.io/badge/CATEGOR%C3%8DAS-6-fe7d37?style=flat-square&labelColor=black">
-  <img alt="Formato PDF" src="https://img.shields.io/badge/FORMATO-PDF-a855f7?style=flat-square&labelColor=black">
-  <img alt="Gratis" src="https://img.shields.io/badge/PRECIO-GRATIS-44cc11?style=flat-square&labelColor=black">
-  <img alt="Serie activa" src="https://img.shields.io/badge/SERIE-ACTIVA-44cc11?style=flat-square&labelColor=black">
 </p>
 
 ¿Llegaste desde un video donde dije *"comenta la palabra X y te lo envío"*? Ya no tienes que esperar: todo está aquí, abierto para todos.
