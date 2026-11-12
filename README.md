@@ -1,6 +1,17 @@
-# chanti-docs 📚
+# 📚 chanti-docs
 
-Todas las guías, plantillas y PDFs gratuitos que comparto en mis videos de **[@chanti.dev](https://www.instagram.com/chanti.dev)**.
+> **La biblioteca gratuita de chanti.dev**: todas las guías, plantillas y PDFs que comparto en mis videos de **[@chanti.dev](https://www.instagram.com/chanti.dev)** sobre IA, agentes, Claude Code y desarrollo.
+
+<p>
+  <a href="https://github.com/devch-tech/chanti-docs/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/devch-tech/chanti-docs?style=flat-square&label=%E2%AD%90%20STARS&labelColor=black&color=e3b341"></a>
+  <a href="LICENSE"><img alt="Licencia MIT" src="https://img.shields.io/badge/LICENCIA-MIT-44cc11?style=flat-square&labelColor=black"></a>
+  <img alt="Idioma español" src="https://img.shields.io/badge/IDIOMA-ESPA%C3%91OL-e05d44?style=flat-square&labelColor=black">
+  <img alt="22 guías" src="https://img.shields.io/badge/GU%C3%8DAS-22-0a84ff?style=flat-square&labelColor=black">
+  <img alt="6 categorías" src="https://img.shields.io/badge/CATEGOR%C3%8DAS-6-fe7d37?style=flat-square&labelColor=black">
+  <img alt="Formato PDF" src="https://img.shields.io/badge/FORMATO-PDF-a855f7?style=flat-square&labelColor=black">
+  <img alt="Gratis" src="https://img.shields.io/badge/PRECIO-GRATIS-44cc11?style=flat-square&labelColor=black">
+  <img alt="Serie activa" src="https://img.shields.io/badge/SERIE-ACTIVA-44cc11?style=flat-square&labelColor=black">
+</p>
 
 ¿Llegaste desde un video donde dije *"comenta la palabra X y te lo envío"*? Ya no tienes que esperar: todo está aquí, abierto para todos.
 
