@@ -6,7 +6,7 @@
   <a href="https://github.com/devch-tech/chanti-docs/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/devch-tech/chanti-docs?style=flat-square&label=%E2%AD%90%20STARS&labelColor=black&color=e3b341"></a>
   <a href="LICENSE"><img alt="Licencia MIT" src="https://img.shields.io/badge/LICENCIA-MIT-44cc11?style=flat-square&labelColor=black"></a>
   <img alt="Idioma español" src="https://img.shields.io/badge/IDIOMA-ESPA%C3%91OL-e05d44?style=flat-square&labelColor=black">
-  <img alt="22 guías" src="https://img.shields.io/badge/GU%C3%8DAS-22-0a84ff?style=flat-square&labelColor=black">
+  <img alt="23 guías" src="https://img.shields.io/badge/GU%C3%8DAS-23-0a84ff?style=flat-square&labelColor=black">
   <img alt="6 categorías" src="https://img.shields.io/badge/CATEGOR%C3%8DAS-6-fe7d37?style=flat-square&labelColor=black">
 </p>
 
@@ -30,6 +30,7 @@
 | [Moshi + VPS: tus agentes en el móvil](ia-y-agentes/moshi-vps-agentes-ia.pdf) | Prepara una VPS, conéctala a Moshi e instala Claude Code, Codex, OpenCode y Hermes |
 | [Guía completa de Agent Reach](ia-y-agentes/guia-completa-agent-reach.pdf) | Instalación, configuración, actualización, solución de problemas y seguridad |
 | [Guía de REA (Reverse Engineer Anything)](ia-y-agentes/guia-de-rea.pdf) | Herramienta open source para que un agente vea cómo funciona por dentro cualquier app |
+| [Registra tu negocio en Business Hub de ChatGPT](ia-y-agentes/guia-business-hub-chatgpt.pdf) | Cómo reclamar y verificar el perfil de tu empresa en ChatGPT, paso a paso, con solución de problemas |
 
 ## ⚙️ Claude Code y orquestación de agentes
 
