@@ -6,7 +6,7 @@
   <a href="https://github.com/devch-tech/chanti-docs/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/devch-tech/chanti-docs?style=flat-square&label=%E2%AD%90%20STARS&labelColor=black&color=e3b341"></a>
   <a href="LICENSE"><img alt="Licencia MIT" src="https://img.shields.io/badge/LICENCIA-MIT-44cc11?style=flat-square&labelColor=black"></a>
   <img alt="Idioma español" src="https://img.shields.io/badge/IDIOMA-ESPA%C3%91OL-e05d44?style=flat-square&labelColor=black">
-  <img alt="23 guías" src="https://img.shields.io/badge/GU%C3%8DAS-23-0a84ff?style=flat-square&labelColor=black">
+  <img alt="24 guías" src="https://img.shields.io/badge/GU%C3%8DAS-24-0a84ff?style=flat-square&labelColor=black">
   <img alt="6 categorías" src="https://img.shields.io/badge/CATEGOR%C3%8DAS-6-fe7d37?style=flat-square&labelColor=black">
 </p>
 
@@ -40,6 +40,7 @@
 | [Orquestación secuencial](claude-code/guia-orquestacion-secuencial-claude-code.pdf) | Cadena de 3 subagentes: investigador → analista → redactor |
 | [Orquestación paralela](claude-code/orquestacion-paralela-guia.pdf) | Cómo implementarla y monitorizarla, con plantillas listas para copiar |
 | [Spec Kit · Reto 25 días, día 1](claude-code/guia-spec-kit-dia-1.pdf) | Spec-Driven Development: del prompt suelto a tu primera especificación formal |
+| [7 herramientas para exprimir Claude Code](claude-code/guia-7-herramientas-claude-code.pdf) | cmux, Linear, Playwright, CodeRabbit/Greptile, Mobbin, fal.ai/Higgsfield y VPS + Hermes: qué hace cada una, cómo instalarla y qué pedirle a Claude |
 
 ## 💻 Desarrollo
 
